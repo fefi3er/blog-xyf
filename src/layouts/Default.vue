@@ -21,10 +21,10 @@
               <g-link class="nav-link" to="/">Home</g-link>
             </li>
             <li class="nav-item">
-              <g-link class="nav-link" to="/About">About</g-link>
+              <g-link class="nav-link" to="/about">About</g-link>
             </li>
             <li class="nav-item">
-              <g-link class="nav-link" to="/Contact">Contact</g-link>
+              <g-link class="nav-link" to="/contact">Contact</g-link>
             </li>
           </ul>
         </div>
