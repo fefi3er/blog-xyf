@@ -91,6 +91,7 @@ img::-moz-selection {
 }
 
 #mainNav {
+  width:100vw;
   position: absolute;
   border-bottom: 1px solid #e9ecef;
   background-color: white;
