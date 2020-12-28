@@ -2,7 +2,7 @@
   <div class="layout">
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand" href="index.html">My Blog</a>
+        <g-link class="navbar-brand" to="/">My Blog</g-link>
         <button
           class="navbar-toggler navbar-toggler-right"
           type="button"
